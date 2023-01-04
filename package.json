@@ -5,19 +5,19 @@
   },
   "dependencies": {
     "@aws-lambda-powertools/logger": "^1.5.0",
-    "@middy/core": "^4.0.0"
+    "@middy/core": "^4.0.9"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.45.0",
-    "@typescript-eslint/parser": "^5.45.0",
-    "esbuild": "^0.15.16",
-    "eslint": "^8.28.0",
+    "@typescript-eslint/eslint-plugin": "^5.48.0",
+    "@typescript-eslint/parser": "^5.48.0",
+    "esbuild": "^0.16.13",
+    "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "nodemon": "^2.0.20",
-    "prettier": "^2.8.0",
-    "serverless-esbuild": "^1.33.2",
-    "serverless-offline": "^11.6.0",
-    "typescript": "^4.9.3"
+    "prettier": "^2.8.1",
+    "serverless-esbuild": "^1.35.3",
+    "serverless-offline": "^12.0.4",
+    "typescript": "^4.9.4"
   }
 }
